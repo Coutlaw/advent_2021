@@ -1,6 +1,8 @@
-package main
+package day1
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func part1(data []int) int {
 	previous := data[0]
